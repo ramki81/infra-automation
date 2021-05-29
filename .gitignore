@@ -1,0 +1,9 @@
+# file.mp4 file.avi file.zip file.tar file.jar file.pyc
+
+# Ignore the binary files
+*.mp4
+*.avi
+*.zip
+*.tar
+*.jar
+*.pyc
