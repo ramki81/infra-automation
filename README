@@ -1,5 +1,10 @@
 this is the repo used for infra automation
 
-All the infra related auto we will create inside this directory
 
-we will use git for tracking changes in this dir 
+
+
+we will use git for tracking changes in this dir
+
+all the devops tools config will be committed here
+
+Follow the procedure to update documententation and get the changes reviewed 
